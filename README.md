@@ -198,11 +198,11 @@ The `main()` function provides a menu for the user to interact with the system. 
 
 ```
 Simple-Banking-System-In-Cpp/
-├── BankingSystem.cpp   # Contains the entire code
 ├── BankData.txt        # Created during runtime if it doesn't already exist; stores account data
+├── BankingSystem.cpp   # Contains the entire code
 ├── BankingSystem.exe   # Executable file generated after compilation
-├── README.md           # Project description with usage instructions
 ├── LICENSE             # License file for the project
+└── README.md           # Project description with usage instructions
 ```
 
 ---
